@@ -1,0 +1,6 @@
+{
+  "name": "CitiesDesire",
+  "description": "Authentic North Indian culinary heritage brand recreation by the inventors of Butter Chicken and Dal Makhani, featuring multi-page menus, table reservations, 5-senses delivery, outlets, and awards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
